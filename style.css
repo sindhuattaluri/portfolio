@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500&family=Galada&display=swap');
+
+.name 
+{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Galada', cursive;
+}
+ 
+img
+{
+    border-radius: 40px;
+}
+body
+{
+   background-color: rgb(0, 242, 255);
+}
+hr
+{
+ border-top: 5px dashed rgb(255, 64, 0);
+ border-radius: 50px;
+ 
+ 
+ 
+}
